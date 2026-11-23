@@ -1,6 +1,4 @@
 [
   "obsidian-citation-plugin",
-  "dataview",
-  "git-vault-sync",
-  "git-obsi-sync"
+  "dataview"
 ]
